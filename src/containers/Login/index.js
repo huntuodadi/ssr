@@ -4,7 +4,7 @@ const Login = () => {
   return (
     <div>
       <Header />
-      <div>login</div>
+      <div>login1</div>
     </div>
   );
 }
