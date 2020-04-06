@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": 1,
+      "title": "Boy Rescued After Failing into Los Angeles Sewage System"
+    },
+    {
+      "id": 2,
+      "title": "Whatever is worth doing is worth doing well."
+    },
+    {
+      "id": 3,
+      "title": "Happiness is a way station between too much and too little."
+    },
+    {
+      "id": 4,
+      "title": "In love folly is always sweet."
+    },
+    {
+      "id": 5,
+      "title": "The hard part isn’t making the decision. It’s living with it."
+    }
+  ]
+}

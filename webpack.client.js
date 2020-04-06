@@ -3,7 +3,7 @@ const merge = require('webpack-merge');
 const baseConfig = require('./webpack.base.js');
 const config = {
   mode: 'development',
-  entry: './src/client/index.js',
+  entry: ['babel-polyfill', './src/client/index.js'],
   output: {
     filename: 'index.js',
     path: path.resolve(__dirname, 'public'),
